@@ -1,0 +1,8 @@
+USE MD2;
+
+CREATE TABLE  sinhvien (
+masv int,
+hovaten varchar(150),
+ngaysinh date
+);
+
